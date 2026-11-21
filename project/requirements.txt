@@ -1,4 +1,4 @@
+Flask
+gunicorn
 pandas
 scikit-learn
-gunicorn
-flask
